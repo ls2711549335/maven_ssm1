@@ -1,0 +1,6 @@
+/bin/
+.gitignore
+.settings/
+bin/
+.classpath
+.project
